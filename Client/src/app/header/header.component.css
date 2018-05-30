@@ -1,0 +1,11 @@
+.customNavBar{
+    background-color:#1EB9A3;
+    height: 80px;
+}
+.removePadding{
+    padding: 0px;
+}
+.customSearch{
+    background: #00B846;
+    color:white;
+}
